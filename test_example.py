@@ -1,5 +1,4 @@
 def test_add_numbers():
-    isinstance(a,int)
-    isinstance(b,int)
+    assert add(1,2) = 3
 
 
